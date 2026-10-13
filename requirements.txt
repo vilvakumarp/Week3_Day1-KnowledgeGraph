@@ -1,0 +1,15 @@
+langchain
+langchain-google-genai
+langchain-openai
+langsmith
+langchain-community
+langchain-neo4j
+neo4j
+pydantic
+python-dotenv
+google-generativeai
+requests
+beautifulsoup4
+pypdf
+faiss-cpu
+sentence-transformers
